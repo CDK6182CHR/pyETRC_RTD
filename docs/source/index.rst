@@ -47,9 +47,24 @@ pyETRC列车运行图系统
 此文档自2020年2月9日开始维护，基于\ ``3.0.0``\ 及以上的版本。旧版中可能有一些地方不符合，以实际软件为准。另外，我们建议，保持使用最新版本的软件，以尽量避免各种问题。
 
 本项目开源地址为：https://github.com/CDK6182CHR/train_graph
+本文档开源地址为：https://github.com/CDK6182CHR/pyETRC_RTD
 
-本文档使用markdown编辑，文档源文件位于：https://github.com/CDK6182CHR/pyetrc-doc
+注意
+^^^^
+
+自2021年下半年起，pyETRC项目已经使用C++重构为qETRC项目，pyETRC程序及本文档原则上不再维护，请用户考虑改用qETRC。
+qETRC开源库地址：
+- Github: https://github.com/CDK6182CHR/qETRC
+- Gitee: https://gitee.com/xep0268/qETRC
+
 
 本文档已于2020年6月8日更新至\ ``V3.1.3``\ 版本。
+
+.. toctree::
+   :maxdepth: 2
+
+   installation
+   main/index
+
 
 
